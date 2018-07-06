@@ -102,10 +102,11 @@ Links to source code repositories for implementations are provided below:
 | Workspaces             |   [Firecloud][5]         | [jupyterhub][8]       |                               |
 | Indexing and Search    |                          |                       |                               |
 | Ontology               |                          | [datadictionary][9]   |                               |
-| Metadata Indexer       |                          | [sheepdog][10]        | [cgp-dss-azul-indexer][16]    |
-| Metadata Querying      |                          | [peregrine][11]       | [cgp-dashboard-service][17]   |
+| Metadata Indexer       |                          | [sheepdog][10]        | [azul][16]                    |
+| Metadata Querying      |                          | [peregrine][11]       | [azul][17]                    |
 | Portal                 |                          | [windmill][12]        | [boardwalk][18]               |
 | Application            |                          |                       | [xena][19]                    |
+
 
 [1]: https://github.com/broadinstitute/sam
 [2]: https://github.com/DataBiosphere/bond
@@ -122,8 +123,8 @@ Links to source code repositories for implementations are provided below:
 [13]: https://github.com/DataBiosphere/dos-azul-lambda
 [14]: https://github.com/BD2KGenomics/toil
 [15]: https://github.com/ga4gh/dockstore
-[16]: https://github.com/DataBiosphere/cgp-dss-azul-indexer
-[17]: https://github.com/DataBiosphere/cgp-dashboard-service
+[16]: https://github.com/DataBiosphere/azul
+[17]: https://github.com/DataBiosphere/azul
 [18]: https://github.com/DataBiosphere/cgp-boardwalk
 [19]: https://github.com/ucscXena/ucsc-xena-server
 [20]: https://www.broadinstitute.org/
